@@ -151,4 +151,5 @@ alias reload="exec ${SHELL} -l"
 alias path='echo -e ${PATH//:/\\n}'
 # show 
 alias tree="tree -N -C"
+alias tl="tree -N -C -L"
 alias home="cd ~"
